@@ -96,6 +96,12 @@ o26_MavenApp/
 o37_jackson-databinding-json-demo/
 o38_spring-rest-demo/
 o39_spring-rest-demo-controller-advice/
+o41-spring-boot-demo/
+o42-dev-tools-demo/
+o43-actuator-demo/
+o44-command-line-demo/
+o45-properties-demo/
+
 
 		
 ##############################
