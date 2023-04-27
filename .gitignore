@@ -101,6 +101,14 @@ o42-dev-tools-demo/
 o43-actuator-demo/
 o44-command-line-demo/
 o45-properties-demo/
+o50-thymeleaf-demo/
+o51-thymeleaf-demo-css/
+o52-thymeleaf-demo-employees-list/
+o53-thymeleaf-demo-employees-list-css/
+o54-thymeleaf-demo-employees-list-crud-add/
+o54-thymeleaf-demo-employees-list-crud-db/
+o55-thymeleaf-demo-employees-list-crud-add/
+o56-thymeleaf-demo-employees-list-crud-update/
 
 
 		
