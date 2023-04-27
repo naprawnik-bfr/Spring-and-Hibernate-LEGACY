@@ -63,11 +63,6 @@ local.properties
 .factorypath
 
 ##############################
-## SERVERS
-##############################
-Servers/
-
-##############################
 ## NetBeans
 ##############################
 nbproject/private/
@@ -88,3 +83,17 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+
+##############################
+## ADDITIONAL
+##############################
+o01_SpringDemoOne/
+o02_SpringDemoAnnotations/
+o03_SpringMVCDemo/
+o04_HibernateTutorial/
+		
+##############################
+## SERVERS
+##############################
+Servers/
