@@ -93,6 +93,10 @@ o02_SpringDemoAnnotations/
 o03_SpringMVCDemo/
 o04_HibernateTutorial/
 o26_MavenApp/
+o37_jackson-databinding-json-demo/
+o38_spring-rest-demo/
+o39_spring-rest-demo-controller-advice/
+
 		
 ##############################
 ## SERVERS
